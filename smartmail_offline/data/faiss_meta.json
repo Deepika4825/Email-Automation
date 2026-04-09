@@ -1,0 +1,18 @@
+[
+  {
+    "subject": "Delivery issue with my order",
+    "sender": "",
+    "category": "complaint",
+    "priority": "high",
+    "action": "escalate",
+    "summary": "Body:\nHello Team,\nI ordered a laptop on 2nd April (Order ID: 78452), but I have not received it yet. The delivery was promised within 3 days. This delay is causing serious problems as I need it for my college submission. Please resolve this urgently or initiate a refund. Regards,\nAnitha"
+  },
+  {
+    "subject": "Interview Schedule for Data Analyst Role",
+    "sender": "",
+    "category": "HR",
+    "priority": "low",
+    "action": "reply",
+    "summary": "Body:\nHi Candidate,\nWe are pleased to inform you that you have been shortlisted for the Data Analyst position. Your interview is scheduled on 12th April at 10:00 AM via Zoom. Please confirm your availability. Best regards,\nHR Team"
+  }
+]
